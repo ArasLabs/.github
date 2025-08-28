@@ -7,14 +7,22 @@ assignees: ''
 
 ---
 
-## Challenge / Pain Point
-**Is your feature request related to a problem? Please describe.**
+<!-- markdownlint-disable MD041 -->
 
-## Proposed Solution
-**Describe the solution you'd like.**
+## 💥 Challenge / Pain Point
 
-## Additional Details
-**Add any other screenshots, mockups, or context about the feature request here.** 
+Is your feature request related to a problem? What are you trying to achieve?
 
-## Collaboration
-**Are you willing to collaborate on this feature? Ex: sharing code, submitting a pull request, testing, etc.**
+## 💡 Proposed Solution
+
+Describe the solution you have in mind.
+
+## 🔎 Additional Details
+
+Add any other screenshots, mockups, or context about the feature request here
+
+## 🤝 Collaboration
+
+### Would you be willing to collaborate on this request?
+
+Ex: sharing code, submitting a pull request, testing, etc.
