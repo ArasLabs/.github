@@ -68,23 +68,23 @@ Create a new Issue from the **Question** template. Be sure to include a descript
 
 ### Project Resources
 
-* [Aras Community Projects 101](https://community.aras.com/b/english/posts/aras-community-projects-101)
-* [Publishing Your Project to GitHub](https://community.aras.com/b/english/posts/publishing-project-github)
-* [Submitting a Pull Request](https://community.aras.com/b/english/posts/submitting-a-pull-request)
-* [Aras Best Practices: Community Projects, Part 1](https://community.aras.com/b/english/posts/aras-best-practices-community-projects-part-1)
-* [Aras Best Practices: Community Projects, Part 2](https://community.aras.com/b/english/posts/aras-best-practices-community-projects-part-2)
+* [Aras Community Projects 101](https://aras.com/en/blog/aras-community-projects-101)
+* [Publishing Your Project to GitHub](https://aras.com/en/blog/publishing-project-github)
+* [Submitting a Pull Request](https://aras.com/en/blog/submitting-a-pull-request)
+* [Aras Best Practices: Community Projects, Part 1](https://aras.com/en/blog/aras-best-practices-community-projects-part-1)
+* [Aras Best Practices: Community Projects, Part 2](https://aras.com/en/blog/aras-best-practices-community-projects-part-2)
 
 ### Technical Resources
 
-* Aras Labs publishes [blogs](https://community.aras.com/b/english) on a variety of technical topics for Aras platform developers, from general practice to specific features and code. Here are a few posts that are useful for a wide array of projects:
-  * [AML Basics](https://community.aras.com/b/english/posts/aml-basics)
-  * [Advanced AML Topics](https://community.aras.com/b/english/posts/advanced-aml-topics)
-  * [How to Manage Your Aras Innovator Database](https://community.aras.com/b/english/posts/backup-and-restoring-a-database)
-  * [Packaging Custom Development](https://community.aras.com/b/english/posts/packaging-custom-development)
-  * [Debugging in Aras Innovator](https://community.aras.com/b/english/posts/debugging-in-aras-innovator)
+* Aras Labs publishes [blogs](https://aras.com/en/blog/category/aras-labs) on a variety of technical topics for Aras platform developers, from general practice to specific features and code. Here are a few posts that are useful for a wide array of projects:
+  * [AML Basics](https://aras.com/en/blog/aml-basics)
+  * [Advanced AML Topics](https://aras.com/en/blog/advanced-aml-topics)
+  * [How to Manage Your Aras Innovator Database](https://aras.com/en/blog/backup-and-restoring-a-database)
+  * [Packaging Custom Development](https://aras.com/en/blog/packaging-custom-development)
+  * [Debugging in Aras Innovator](https://aras.com/en/blog/debugging-in-aras-innovator)
 
-* The [Aras Programmer's Guide](http://www.aras.com/support/documentation/DocumentView.aspx?file=./11.0%20SP9/Other%20Documentation/Aras%20Innovator%2011.0%20-%20Programmers%20Guide.pdf) contains AML references and IOM "recipes".
-* Here's [a more comprehensive list](https://community.aras.com/b/english/posts/helpful-resources-for-aras-innovator) of Aras Innovator resources.
+* The [Aras Programmer's Guide](https://aras.com/en/support/documentation) contains AML references and IOM "recipes".
+* Here's [a more comprehensive list](https://aras.com/en/blog/helpful-resources-for-aras-innovator) of Aras Innovator resources.
 
 ## Attribution
 
