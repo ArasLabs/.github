@@ -7,44 +7,57 @@ assignees: ''
 
 ---
 
-## Expected Behavior
-**How you expect the project to work?**
+<!-- markdownlint-disable MD041 -->
 
+## 😊 Expected Behavior
 
-## Actual Behavior
-**What is the project actually doing?**
+How you expect the project to work?
 
+## 🫤 Actual Behavior
 
-## Steps to Reproduce 
-**How can we test this issue?**
+What is the project actually doing?
 
-1. 
-2. 
-3. 
+## 📋 Steps to Reproduce
 
-## Environment Details
-### Aras Innovator 
-* Major version: <!-- 12.0 | 11.0 | 10.0 -->
-* Service pack(s): <!-- SP0 | SP1 | SP2 | etc... -->
+How can we test this issue?
+
+1. ...
+2. ...
+3. ...
+
+## 🌐 Environment Details
+
+### Aras Innovator
+
+#### What version of Aras Innovator are you using?
+<!-- Example: 12 SP18, R14, R24, etc. -->
+
+#### Are you using Aras Innovator on SaaS (hosted by Aras) or on-prem (self-hosted)?
+
+- [ ] Aras SaaS
+- [ ] On-Prem / Self Hosted
+- [ ] Not Sure
 
 ### Browsers
-<!-- Type an x into the square brackets to check the box. -->
-- [ ] Internet Explorer 11
-- [ ] Firefox ESR 
-- [ ] Chrome 
-- [ ] Edge 
+
+- [ ] Firefox ESR
+- [ ] Chrome
+- [ ] Edge
 
 ### Project Version
-**What version of this project are you using? Ex: v1.1.0**
 
+#### What version of this project are you using?
+<!-- Example: v1.1.0 -->
 
 ### Additional Details
 <!-- Optional. -->
 
-
 ## Workaround / Solution
-**Have you found a workaround or solution to this issue?**
 
+### Have you found a workaround or solution to this issue?
 
-## Collaboration
-**Are you willing to collaborate on this feature? Ex: sharing code, submitting a pull request, testing, etc.**
+## 🤝 Collaboration
+
+### Would you be willing to collaborate on this request?
+
+Ex: sharing code, submitting a pull request, testing, etc.

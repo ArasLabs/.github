@@ -1,8 +1,12 @@
-## Description
-**What changes are included in this pull request?**
+<!-- markdownlint-disable MD041 -->
+## 💬 Description
 
+### What changes are included in this pull request?
+<!-- Your comments help reviewers understand the context of the code changes. -->
 
-## Reason
+## 🤔 Reason
+
+### What type of change are you proposing?
 <!-- Type an x into the square brackets to check the box. -->
 - [ ] Bug fix
 - [ ] Feature enhancement
@@ -11,26 +15,35 @@
 - [ ] Upgrade
 - [ ] Other
 
-**Are you responding to a filed Issue? (bug report, feature request, documentation request, etc)**
-<!-- If you are submitting a fix for an Issue, reference the issue by number to link it. For example, you can link Issue 5 by entering #5. -->
+### Are you responding to a filed Issue?
 
+If you are submitting a fix for an Issue, you can reference the issue by number to link it.
+<!-- Example: link Issue 5 by entering #5. -->
 
-## Testing
-### Aras Innovator 
-* Major version: <!-- 12.0 | 11.0 | 10.0 -->
-* Service pack(s): <!-- SP0 | SP1 | SP2 | etc... -->
+## 🔎 Testing
+
+### Aras Innovator
+
+What version of Aras Innovator did you use to test your change?
+<!-- Example: 12 SP18, R14, R24, etc. -->
+
+Did you test on SaaS (hosted by Aras) or on-prem (self-hosted)?
+
+- [ ] Aras SaaS
+- [ ] On-Prem / Self Hosted
+- [ ] Not Sure
 
 ### Browsers
-- [ ] Internet Explorer 11
-- [ ] Firefox ESR 
-- [ ] Chrome 
-- [ ] Edge 
 
-**Does this pull request include known issues?**
+- [ ] Firefox ESR
+- [ ] Chrome
+- [ ] Edge
+
+### Does this pull request include known issues?
 <!-- Add details here -->
 
+## 📋 Checklist
 
-## Checklist
 - [ ] Did you confirm the Install Steps in the README are still correct?
 - [ ] If this PR adds or changes functionality, did you update the Usage Steps in the README?
 - [ ] Did you add your GitHub user name to the "Credits" section in the README?
