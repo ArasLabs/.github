@@ -1,17 +1,18 @@
 # Contribution Guidelines & FAQ <!-- omit in toc -->
 
 ## Table of Contents <!-- omit in toc -->
-- [How to Contribute](#how-to-contribute)
-  - [Did you find a bug?](#did-you-find-a-bug)
-  - [Did you fix a bug?](#did-you-fix-a-bug)
-  - [Did you fix whitespace, format code, or make a purely cosmetic patch?](#did-you-fix-whitespace-format-code-or-make-a-purely-cosmetic-patch)
-  - [Do you have a request for documentation improvements?](#do-you-have-a-request-for-documentation-improvements)
-  - [Do you intend to add a new feature or change an existing one?](#do-you-intend-to-add-a-new-feature-or-change-an-existing-one)
-  - [Do you have other questions about this project?](#do-you-have-other-questions-about-this-project)
-- [Contributor Resources](#contributor-resources)
-  - [Project Resources](#project-resources)
-  - [Technical Resources](#technical-resources)
-- [Attribution](#attribution)
+
+* [How to Contribute](#how-to-contribute)
+  * [Did you find a bug?](#did-you-find-a-bug)
+  * [Did you fix a bug?](#did-you-fix-a-bug)
+  * [Did you fix whitespace, format code, or make a purely cosmetic patch?](#did-you-fix-whitespace-format-code-or-make-a-purely-cosmetic-patch)
+  * [Do you have a request for documentation improvements?](#do-you-have-a-request-for-documentation-improvements)
+  * [Do you intend to add a new feature or change an existing one?](#do-you-intend-to-add-a-new-feature-or-change-an-existing-one)
+  * [Do you have other questions about this project?](#do-you-have-other-questions-about-this-project)
+* [Contributor Resources](#contributor-resources)
+  * [Project Resources](#project-resources)
+  * [Technical Resources](#technical-resources)
+* [Attribution](#attribution)
 
 ## How to Contribute
 
@@ -33,9 +34,9 @@
 
 ### Did you fix whitespace, format code, or make a purely cosmetic patch?
 
-Changes that are cosmetic in nature and do not add anything substantial to the useability, stability, functionality, or testability of the project or documentation may remain open until a functional fix or upgrade is necessary. 
+Changes that are cosmetic in nature and do not add anything substantial to the useability, stability, functionality, or testability of the project or documentation may remain open until a functional fix or upgrade is necessary.
 
->If a cosmetic/superficial patch is submitted during Hacktoberfest, **it will be declined as spam.** 
+>If a cosmetic/superficial patch is submitted during Hacktoberfest, **it will be declined as spam.**
 
 ### Do you have a request for documentation improvements?
 
@@ -86,5 +87,5 @@ Create a new Issue from the **Question** template. Be sure to include a descript
 * Here's [a more comprehensive list](https://community.aras.com/b/english/posts/helpful-resources-for-aras-innovator) of Aras Innovator resources.
 
 ## Attribution
-These contribution guidelines are based on the [Ruby on Rails contribution guidelines](https://github.com/rails/rails/blob/master/CONTRIBUTING.md).
 
+These contribution guidelines are based on the [Ruby on Rails contribution guidelines](https://github.com/rails/rails/blob/master/CONTRIBUTING.md).
