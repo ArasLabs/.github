@@ -20,7 +20,7 @@ assignees: ''
 
 ## 🔎 Additional Details
 
-### Add any other screenshots, mockups, or context about your request here
+Add any other screenshots, mockups, or context about your request here
 
 ## 🤝 Collaboration
 

@@ -21,7 +21,7 @@ If so, which version of the project? Example: v1.1.0
 
 ## 🔎 Additional Details
 
-### Add any other screenshots, mockups, or context about your request here
+Add any other screenshots, mockups, or context about your request here
 <!-- Optional. -->
 
 ## 🤝 Collaboration

@@ -19,7 +19,7 @@ Describe the solution you have in mind.
 
 ## 🔎 Additional Details
 
-Add any other screenshots, mockups, or context about the feature request here
+Add any other screenshots, mockups, or context about your request here
 
 ## 🤝 Collaboration
 
