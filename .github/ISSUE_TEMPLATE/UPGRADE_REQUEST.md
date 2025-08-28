@@ -7,18 +7,25 @@ assignees: ''
 
 ---
 
-## Challenge / Pain Point
-**What release of Aras Innovator do you want to use with this project? ex: 12 SP18, R31, etc.**
+<!-- markdownlint-disable MD041 -->
 
+## 💥 Challenge / Pain Point
 
-**Have you tried installing and using this project yet? If so, which version of the project? ex: v1.1.0**
+### What release of Aras Innovator do you want to use with this project?
 
+Example: 12 SP18, R31, etc.
 
-## Additional Details
-**Add any other screenshots, mockups, or context about your request here.** 
+### Have you tried installing and using this project yet?
+
+If so, which version of the project? Example: v1.1.0
+
+## 🔎 Additional Details
+
+### Add any other screenshots, mockups, or context about your request here
 <!-- Optional. -->
 
+## 🤝 Collaboration
 
-## Collaboration
-**Are you willing to collaborate on this request? Ex: sharing code, submitting a pull request, testing, etc.**
+### Are you willing to collaborate on this request?
 
+Ex: sharing code, submitting a pull request, testing, etc.
